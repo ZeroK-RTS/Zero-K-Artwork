@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<audacityproject projname="launch(Kanoba)_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="163.0568839402" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="MisiCBM1Remake" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="180666" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00005.au' len='180666' min='-1.000000' max='1.000000' rms='0.411731'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='0.050911037648' val='1.000000000000'/>
+			<controlpoint t='0.050916037648' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>

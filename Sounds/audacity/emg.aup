@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<audacityproject projname="emg_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0304229162" sel1="0.5404762512" vpos="0" h="0.0000000000" zoom="2662.4666612786" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="weaponfire5" channel="2" linked="0" offset="0.01324263" rate="44100.000000" gain="0.354813" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="23575" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00017.auf' aliasfile='C:\Documents and Settings\Tim\Desktop\CA sources\AstroMenace\SourceSound\sfx\weaponfire5.wav' aliasstart='0' aliaslen='23575' aliaschannel='0' min='0.000000' max='0.000000' rms='0.000000'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="weaponfire6" channel="2" linked="0" offset="0.02616780" rate="44100.000000" gain="1.412538" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="23592" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00018.auf' aliasfile='C:\Documents and Settings\Tim\Desktop\CA sources\AstroMenace\SourceSound\sfx\weaponfire6.wav' aliasstart='0' aliaslen='23592' aliaschannel='0' min='0.000000' max='0.000000' rms='0.000000'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="weaponfire5" channel="2" linked="0" offset="0.09163265" rate="44100.000000" gain="0.501187" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="19172" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00027.au' len='19172' min='-0.461353' max='0.611158' rms='0.058570'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='0.295097040816' val='1.000000000000'/>
+			<controlpoint t='0.295102040816' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>

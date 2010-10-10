@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<audacityproject projname="heavy_emg_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0132426300" sel1="0.5734240359" vpos="0" h="0.0000000000" zoom="2547.9696825338" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="weaponfire5" channel="2" linked="0" offset="0.01324263" rate="44100.000000" gain="0.707946" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="24704" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00000.au' len='24704' min='-0.639998' max='0.691444' rms='0.062203'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="weaponfire6" channel="2" linked="0" offset="0.02616780" rate="44100.000000" gain="1.412538" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="24704" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00001.au' len='24704' min='-0.581911' max='0.856082' rms='0.095228'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='0.547251235896' val='1.000000000000'/>
+			<controlpoint t='0.547256235896' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="weaponfire5" channel="2" linked="0" offset="0.09163265" rate="44100.000000" gain="0.707946" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="18528" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00002.au' len='18528' min='-0.428937' max='0.610881' rms='0.056952'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='0.341741034422' val='1.000000000000'/>
+			<controlpoint t='0.341746034422' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>

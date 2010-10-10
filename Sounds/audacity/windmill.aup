@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<audacityproject projname="windmill_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="2.8936070207" vpos="0" h="0.0000000000" zoom="98.8385768892" rate="22050.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="wind2_gol" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="0.125893" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="67597" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00166.au' len='67597' min='-0.998840' max='0.999969' rms='0.143000'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="14609__man__swosh freesound.org" channel="2" linked="0" offset="0.08095238" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="117138" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00171.au' len='80758' min='-0.744385' max='0.600708' rms='0.087865'/>
+			</waveblock>
+			<waveblock start="80758" >
+				<simpleblockfile filename='b00172.au' len='36380' min='-0.715790' max='0.570038' rms='0.087220'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='1.778316995465' val='1.000000000000'/>
+			<controlpoint t='1.778321995465' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>

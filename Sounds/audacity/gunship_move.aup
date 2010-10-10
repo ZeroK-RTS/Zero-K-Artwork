@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<audacityproject projname="gunship_move_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="122.1929014382" rate="11025.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="jet3_s3d" channel="2" linked="0" offset="0.00000000" rate="11025.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="30135" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00003.au' len='15248' min='-0.262085' max='0.262085' rms='0.032558'/>
+			</waveblock>
+			<waveblock start="15248" >
+				<simpleblockfile filename='b00004.au' len='14887' min='-0.262115' max='0.262115' rms='0.031944'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

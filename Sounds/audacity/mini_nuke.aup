@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<audacityproject projname="mini_nuke_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="443.6289120715" rate="11025.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="ex_large6" channel="2" linked="0" offset="0.00000000" rate="11025.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="37576" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00000.auf' aliasfile='C:\Program Files\spring-0.81.2\mods\1faction.sdd\sounds\explosion\ex_large6.wav' aliasstart='0' aliaslen='37576' aliaschannel='0' min='-0.981750' max='0.995758' rms='0.292975'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='0.247954984463' val='2.000000000000'/>
+			<controlpoint t='0.955753758293' val='0.861538461538'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>

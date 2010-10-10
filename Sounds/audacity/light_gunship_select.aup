@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<audacityproject projname="light_gunship_select_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="188.0406091371" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="camera-click-1" channel="2" linked="0" offset="0.24643991" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="19708" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00011.au' len='19708' min='-0.296496' max='0.221060' rms='0.015694'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='0.329128361678' val='1.000000000000'/>
+			<controlpoint t='0.329133361678' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="0.55956916" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="19708" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00011.au' len='19708' min='-0.296496' max='0.221060' rms='0.015694'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='0.329128361678' val='1.000000000000'/>
+			<controlpoint t='0.329133361678' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="wind_gol" channel="2" linked="0" offset="0.00003131" rate="22050.000000" gain="0.707946" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="35882" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00005.au' len='35882' min='-0.693787' max='0.678162' rms='0.101853'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

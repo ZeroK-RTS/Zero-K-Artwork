@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<audacityproject projname="builder_start_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.8882487999" zoom="264195.1219512193" rate="48000.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="electric_tower_charge_up_22khz" channel="2" linked="0" offset="0.01767857" rate="48000.000000" gain="0.251189" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="42051" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00016.au' len='42051' min='-0.979813' max='0.825974' rms='0.143370'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<audacityproject projname="hovercraft_select_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="658.3405531490" rate="22050.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="turbine_gol" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="0.354813" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="45015" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00002.au' len='45015' min='-1.000000' max='0.531250' rms='0.170182'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="whir4_gol" channel="2" linked="0" offset="0.27797917" rate="48000.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="59904" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00007.au' len='59904' min='-0.899188' max='0.594691' rms='0.185147'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

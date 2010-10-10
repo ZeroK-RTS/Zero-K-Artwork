@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<audacityproject projname="light_bot_select_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="2013.9449541284" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="camera-focus-1" channel="2" linked="0" offset="-0.12476190" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="16709" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00012.au' len='16709' min='-0.325360' max='0.390209' rms='0.015117'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='0.362007066731' val='1.000000000000'/>
+			<controlpoint t='0.362012066731' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="click_gol" channel="2" linked="0" offset="0.11558333" rate="48000.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="15695" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00007.au' len='15695' min='-1.000000' max='0.898475' rms='0.035768'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>
