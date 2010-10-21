@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<audacityproject projname="laser_burn4_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="352.2598140496" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="laser_burn3" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.995262" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="19580" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00035.au' len='19580' min='-0.296705' max='0.154717' rms='0.014700'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='4'>
+			<controlpoint t='0.085165068027' val='1.000000000000'/>
+			<controlpoint t='0.085170068027' val='1.000000000000'/>
+			<controlpoint t='0.366201972396' val='1.000000000000'/>
+			<controlpoint t='0.366206972396' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="laser_fire_test1" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.412538" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="19712" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00038.au' len='19712' min='-0.148438' max='0.143642' rms='0.022536'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='4'>
+			<controlpoint t='0.085165068027' val='1.000000000000'/>
+			<controlpoint t='0.085170068027' val='1.000000000000'/>
+			<controlpoint t='0.366201972396' val='1.000000000000'/>
+			<controlpoint t='0.366206972396' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>

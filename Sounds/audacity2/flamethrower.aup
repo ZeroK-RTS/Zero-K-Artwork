@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<audacityproject projname="flamethrower_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000159688" sel1="0.3345964677" vpos="0" h="0.0000000000" zoom="43622.4000000000" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="burning" channel="2" linked="0" offset="0.00001597" rate="44100.000000" gain="1.412538" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="14752" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00001.au' len='14752' min='-0.445557' max='0.295227' rms='0.047521'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="burn" channel="2" linked="0" offset="0.00008400" rate="11025.000000" gain="1.412538" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="3688" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00003.au' len='3688' min='-0.421875' max='0.531250' rms='0.013076'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

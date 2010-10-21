@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<audacityproject projname="heavy_laser3_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="543.1136299725" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="LasrHvy2Remake" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="107973" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00021.au' len='9731' min='-1.000000' max='1.000000' rms='0.233595'/>
+			</waveblock>
+			<waveblock start="9731" >
+				<simpleblockfile filename='b00022.au' len='98242' min='-0.877081' max='0.868087' rms='0.355387'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Lasrfir1Remake" channel="2" linked="0" offset="0.01607710" rate="44100.000000" gain="0.354813" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="33350" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00011.au' len='33350' min='-1.000000' max='1.000000' rms='0.265384'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="pulse_laser2" channel="2" linked="0" offset="0.14825397" rate="44100.000000" gain="0.707946" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="74365" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00039.auf' aliasfile='C:\Program Files\spring-0.81.2\mods\1faction.sdd\sounds\weapon\laser\pulse_laser2.wav' aliasstart='0' aliaslen='74365' aliaschannel='0' min='0.000000' max='0.000000' rms='0.000000'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="pulse_laser2" channel="2" linked="0" offset="0.14825397" rate="44100.000000" gain="0.707946" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="74365" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00040.auf' aliasfile='C:\Program Files\spring-0.81.2\mods\1faction.sdd\sounds\weapon\laser\pulse_laser2.wav' aliasstart='0' aliaslen='74365' aliaschannel='1' min='0.000000' max='0.000000' rms='0.000000'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<audacityproject projname="emp_missile_hit_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="620.7377373418" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="ex_med16" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.412538" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="39960" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00000.auf' aliasfile='C:\Program Files\spring-0.81.2\mods\1faction.sdd\sounds\explosion\ex_med16.wav' aliasstart='0' aliaslen='39960' aliaschannel='0' min='-0.896667' max='0.892395' rms='0.218412'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="more_lightning" channel="2" linked="0" offset="0.08866213" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="60672" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00002.au' len='60672' min='-1.000000' max='1.000000' rms='0.363668'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<audacityproject projname="heavymissile_launch_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="3.4000000039" vpos="0" h="0.0000000000" zoom="500.8764346797" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="large_missile_fire" channel="2" linked="0" offset="0.17895692" rate="22050.000000" gain="2.818383" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="71024" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00022.au' len='71024' min='-0.880885' max='0.864750' rms='0.157979'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="ex_med12" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="7.943283" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="36483" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00004.au' len='36483' min='-0.882444' max='0.895416' rms='0.203328'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<audacityproject projname="laser_burn4_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="881.4503658227" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="laser_burn3" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="19580" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00000.auf' aliasfile='C:\Program Files\spring-0.81.2\mods\1faction.sdd\sounds\weapon\laser\laser_burn3.wav' aliasstart='0' aliaslen='19580' aliaschannel='0' min='-0.347260' max='0.225952' rms='0.016899'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="laser_fire_test1" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="0.707946" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="19712" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00003.au' len='19712' min='-0.148438' max='0.158173' rms='0.024756'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

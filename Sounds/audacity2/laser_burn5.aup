@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<audacityproject projname="laser_burn5_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="3099.8863636364" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="laser_burn3" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.995262" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="24475" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00040.au' len='24475' min='-0.280401' max='0.166735' rms='0.015926'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="laser_fire_test1" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="24640" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00041.au' len='24640' min='-0.153213' max='0.145653' rms='0.025161'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

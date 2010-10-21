@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<audacityproject projname="nalpalm_missile_hit_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="16.5992320386" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="ex_med16" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.412538" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="39960" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00000.auf' aliasfile='C:\Program Files\spring-0.81.2\mods\1faction.sdd\sounds\explosion\ex_med16.wav' aliasstart='0' aliaslen='39960' aliaschannel='0' min='-0.896667' max='0.892395' rms='0.218412'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="burn" channel="2" linked="0" offset="0.05106576" rate="11025.000000" gain="0.707946" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="24064" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00001.auf' aliasfile='C:\Program Files\spring-0.81.2\mods\1faction.sdd\sounds\weapon\burn.wav' aliasstart='0' aliaslen='24064' aliaschannel='0' min='-1.000000' max='0.992188' rms='0.128832'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="burning" channel="2" linked="0" offset="0.57242630" rate="11025.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="24446" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00003.au' len='24446' min='-0.437500' max='0.375000' rms='0.050714'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<audacityproject projname="missile_launch_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="1610.1340403594" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="missile2_fire" channel="2" linked="0" offset="0.00000000" rate="32000.000000" gain="0.707946" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="33945" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00009.auf' aliasfile='C:\Program Files\spring-0.81.2\mods\1faction.sdd\sounds\weapon\missile\missile2_fire.wav' aliasstart='0' aliaslen='33945' aliaschannel='0' min='-0.417267' max='0.423248' rms='0.084015'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="missile_fire8" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.995262" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="45748" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00010.auf' aliasfile='C:\Program Files\spring-0.81.2\mods\1faction.sdd\sounds\weapon\missile\missile_fire8.wav' aliasstart='0' aliaslen='45748' aliaschannel='0' min='-0.698547' max='0.707245' rms='0.156573'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>
