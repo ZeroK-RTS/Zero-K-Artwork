@@ -1,0 +1,48 @@
+http://opengameart.org/
+
+CC-BY-SA 3.0
+whoosh2.wav
+battle_sound_effects_0.zip
+positive.zip
+doorOpenDoorClosed.7z
+
+CC-BY 3.0
+sci-fi_computer_beeps.7z
+launches.7z
+explosions.7z
+shots.7z
+clicks.7z
+rumble.flac
+lava.flac
+items.7z
+robotic.7z
+leaves.7z
+battle_sound_effects_0.zip
+
+GNU GPL 2.0
+whoosh2.wav
+battle_sound_effects_0.zip
+positive.zip
+doorOpenDoorClosed.7z
+
+GNU GPL 3.0
+whoosh2.wav
+battle_sound_effects_0.zip
+positive.zip
+doorOpenDoorClosed.7z
+
+CC0 (Public Domain)
+dark_magic.7z
+mechanical.7z
+short wind sound.wav
+independent_nu_ljudbank-buttons_and_clicks.7z
+swoshes.7z
+teleport.wav
+sci-fi 1.wav
+wood_and_metal_vol.2_0.zip
+battle_sound_effects_0.zip
+krank_sounds.7z
+Space Laser.wav
+melee sounds.zip
+fan_interval.wav
+qubodup-edev.flac
