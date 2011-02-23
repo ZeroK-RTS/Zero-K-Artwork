@@ -1,24 +1,25 @@
-<?xml version="1.0"?>
-<audacityproject projname="heavy_bot_move_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="589.4736842105" rate="44100.000000" >
-	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
-	<wavetrack name="robot_freeloops" channel="2" linked="0" offset="0.00337500" rate="16000.000000" gain="1.000000" pan="0.000000" >
-		<sequence maxsamples="262144" sampleformat="262159" numsamples="15933" >
-			<waveblock start="0" >
-				<simpleblockfile filename='b00015.au' len='15933' min='-0.987153' max='0.858376' rms='0.077951'/>
-			</waveblock>
-		</sequence>
-		<envelope numpoints='0'>
-		</envelope>
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="heavy_bot_move_data" version="1.3.0" audacityversion="1.3.12-beta" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.4619939902" zoom="1807.3828181107" rate="44100">
+	<tags>
+		<tag name="id3v2" value="1"/>
+		<tag name="Source Title" value="Own recording"/>
+		<tag name="License" value="Public Domain/WTFPL/CC0"/>
+		<tag name="ALBUM" value="Abstactica"/>
+		<tag name="Copyright Status" value="Public Domain/WTFPL/CC0"/>
+		<tag name="Source Author" value="Iwan Gabovitch"/>
+		<tag name="ARTIST" value="Iwan Gabovitch"/>
+		<tag name="YEAR" value="2009"/>
+		<tag name="GENRE" value="SFX"/>
+	</tags>
+	<wavetrack name="robot_freeloops" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="16000" gain="1" pan="0">
+		<waveclip offset="0.00337500">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="15933">
+				<waveblock start="0">
+					<simpleblockfile filename="b00015.au" len="15933" min="-0.987153" max="0.858376" rms="0.077951"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
 	</wavetrack>
-	<wavetrack name="whir5_gol" channel="2" linked="0" offset="0.19846726" rate="48000.000000" gain="0.354813" pan="0.000000" >
-		<sequence maxsamples="262144" sampleformat="262159" numsamples="71548" >
-			<waveblock start="0" >
-				<simpleblockfile filename='b00012.au' len='71548' min='-0.998804' max='0.998141' rms='0.241166'/>
-			</waveblock>
-		</sequence>
-		<envelope numpoints='2'>
-			<controlpoint t='0.000006904762' val='1.000000000000'/>
-			<controlpoint t='0.000011904762' val='1.000000000000'/>
-		</envelope>
-	</wavetrack>
-</audacityproject>
+</project>

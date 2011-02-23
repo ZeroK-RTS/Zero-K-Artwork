@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="vlaunch_emp_hit_data" version="1.3.0" audacityversion="1.3.12-beta" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="563.8694585756" rate="44100">
+	<tags>
+		<tag name="id3v2" value="1"/>
+	</tags>
+	<wavetrack name="vlaunch_hit" channel="2" linked="0" mute="0" solo="0" height="169" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="43232">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e6e.au" len="43232" min="-1" max="0.999969" rms="0.350101"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="more_lightning" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="22050" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="36137">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ef9.au" len="36137" min="-0.68855" max="0.743073" rms="0.12029"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

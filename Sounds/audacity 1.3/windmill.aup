@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="windmill_data" version="1.3.0" audacityversion="1.3.12-beta" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="418.8381141175" rate="22050">
+	<tags>
+		<tag name="id3v2" value="1"/>
+		<tag name="ARTIST" value="qubodup aka Iwan Gabovitch | qubodup@gmail.com"/>
+		<tag name="YEAR" value="2008"/>
+		<tag name="COMMENTS" value="I release this file into the public domain"/>
+	</tags>
+	<wavetrack name="wind2_gol" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="22050" gain="0.125893" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="67597">
+				<waveblock start="0">
+					<simpleblockfile filename="b00166.au" len="67597" min="-0.99884" max="0.999969" rms="0.143"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="swosh-35 1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.10482993">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="29731">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000949.au" len="29731" min="-0.843829" max="0.957953" rms="0.094157"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.97628835">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="29731">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b75.au" len="29731" min="-0.843829" max="0.957953" rms="0.094151"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.86467120">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="948">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000319.au" len="948" min="-0.000319" max="0.001401" rms="0.000007"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.021473922902" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+		<waveclip offset="1.88616780">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="30032">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008cf.au" len="30032" min="-0.844094" max="0.958265" rms="0.094648"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
