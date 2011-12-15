@@ -1,0 +1,7 @@
+Buildy: GPL v3, CC-BY-SA 3.0
+Core: GPL v3, CC-BY-SA 3.0
+Echelon: GPL v3, CC-BY 3.0
+I Wouldn't: GPL v3, CC-BY-SA 3.0
+Nebula: GPL v2, CC-BY 3.0
+
+all songs downloaded from http://opengameart.org
