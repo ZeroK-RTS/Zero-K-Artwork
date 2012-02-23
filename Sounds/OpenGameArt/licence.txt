@@ -18,6 +18,9 @@ items.7z
 robotic.7z
 leaves.7z
 battle_sound_effects_0.zip
+watersplash2.zip
+watersplash.zip
+amb_waterfall.zip
 
 GNU GPL 2.0
 whoosh2.wav
@@ -46,3 +49,5 @@ Space Laser.wav
 melee sounds.zip
 fan_interval.wav
 qubodup-edev.flac
+SFX.zip
+ezwa-water_splash.7z
