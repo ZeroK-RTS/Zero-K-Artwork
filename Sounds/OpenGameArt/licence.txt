@@ -21,6 +21,7 @@ battle_sound_effects_0.zip
 watersplash2.zip
 watersplash.zip
 amb_waterfall.zip
+stream-waterfall.zip
 
 GNU GPL 2.0
 whoosh2.wav

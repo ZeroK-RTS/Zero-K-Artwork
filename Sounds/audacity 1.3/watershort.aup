@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="watershort_data" version="1.3.0" audacityversion="1.3.14-beta" sel0="0.4305371051" sel1="0.4305371051" vpos="0" h="0.0000000000" zoom="2057.8946378744" rate="96000.0">
+	<tags>
+		<tag name="ARTIST" value="kurtisevan"/>
+	</tags>
+	<wavetrack name="stream2" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="96000" gain="2.238721" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="58265">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d1e.au" len="58265" min="-0.089752" max="0.094086" rms="0.018434"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
