@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="itempick1_data" version="1.3.0" audacityversion="1.3.14-beta" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="1065.2727272727" rate="44100.0">
+	<tags>
+		<tag name="ARTIST" value="qubodup aka Iwan Gabovitch | qubodup@gmail.com"/>
+		<tag name="YEAR" value="2008"/>
+		<tag name="COMMENTS" value="I release this file into the public domain"/>
+	</tags>
+	<wavetrack name="itempick1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="21148">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003b8.au" len="21148" min="-0.643799" max="0.600769" rms="0.114305"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="itempick1" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="21753">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004b3.au" len="21753" min="-0.693054" max="0.705231" rms="0.13205"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="itemback" channel="2" linked="0" mute="1" solo="0" height="150" minimized="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26741">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001ff.au" len="26741" min="-0.172272" max="0.170135" rms="0.03295"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="itemback" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26498">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fdb.au" len="26498" min="-0.193451" max="0.192352" rms="0.031965"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

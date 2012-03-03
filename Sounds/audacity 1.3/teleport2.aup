@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="teleport2_data" version="1.3.0" audacityversion="1.3.14-beta" sel0="0.0000000000" sel1="0.8727916667" vpos="0" h="0.0000000000" zoom="403.9893617021" rate="11025.0">
+	<tags>
+		<tag name="Software" value="FL Studio 9"/>
+		<tag name="Copyright" value="1995 Microsoft Corporation"/>
+		<tag name="COMMENTS" value="Maz &amp; Kilgore&#x000d;&#x000a;208 W. 30th #701&#x000d;&#x000a;New York, NY 10001&#x000d;&#x000a;mazrob@panix.com"/>
+	</tags>
+	<wavetrack name="missle_in_flight_22khz" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="41894">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000296.au" len="41894" min="-0.787348" max="0.676043" rms="0.144991"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

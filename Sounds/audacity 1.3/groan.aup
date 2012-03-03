@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="groan_data" version="1.3.0" audacityversion="1.3.14-beta" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="426.1753318584" rate="44100.0">
+	<tags>
+		<tag name="Encoded by" value="iTunes v7.7"/>
+		<tag name="ALBUM" value="The Recordist Free Sound FX"/>
+		<tag name="TITLE" value="Door_Metal_Groan_SE"/>
+		<tag name="Content group description" value="Mp3"/>
+		<tag name="COMMENTS" value=" 00000000 00000210 000008D1 000000000003F29F 00000000 0001658E 00000000 00000000 00000000 00000000 00000000 00000000"/>
+		<tag name="ARTIST" value="The Recordist Mp3"/>
+		<tag name="YEAR" value="2008"/>
+		<tag name="Band" value="The Recordist Sound FX"/>
+		<tag name="Composer" value="Frank Bry"/>
+		<tag name="GENRE" value="Sound Effects"/>
+	</tags>
+	<wavetrack name="Door_Metal_Groan_SE" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="6.309574" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="76263">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005cf.au" len="76263" min="-0.492098" max="0.602874" rms="0.089108"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
