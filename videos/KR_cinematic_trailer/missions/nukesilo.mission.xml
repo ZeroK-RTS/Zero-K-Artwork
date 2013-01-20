@@ -13,6 +13,7 @@
     </d2p1:_monitor>
   </Counters>
   <Description z:Id="7"></Description>
+  <DescriptionStory i:nil="true" />
   <DisabledGadgets xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="8">
     <d2p1:items z:Id="9" z:Type="System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]" z:Assembly="0">
       <d2p1:_items z:Id="10" z:Size="4">
@@ -506,14 +507,14 @@ Spring.GiveOrderToUnit(unitID, CMD.WAIT, {}, {})</CodeStr>
                   <PZ xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">1525</PZ>
                   <RX xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">4.75</RX>
                   <RY xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">214</RY>
-                  <Time xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">2</Time>
+                  <Time xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">6</Time>
                 </TriggerLogic>
                 <TriggerLogic z:Id="136" z:Type="CMissionLib.Actions.WaitAction" z:Assembly="CMissionLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
                   <Name z:Id="137">Wait</Name>
-                  <Frames xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">60</Frames>
-                  <Minutes xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">0.033333333333333333</Minutes>
-                  <Seconds xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">2</Seconds>
-                  <Time xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">PT2S</Time>
+                  <Frames xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">240</Frames>
+                  <Minutes xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">0.13333333333333333</Minutes>
+                  <Seconds xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">8</Seconds>
+                  <Time xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">PT8S</Time>
                 </TriggerLogic>
                 <TriggerLogic z:Id="138" z:Type="CMissionLib.Actions.PauseAction" z:Assembly="CMissionLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
                   <Name z:Id="139">Pause</Name>
@@ -537,7 +538,7 @@ Spring.GiveOrderToUnit(unitID, CMD.WAIT, {}, {})</CodeStr>
                   <PX xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">1470</PX>
                   <PY xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">372</PY>
                   <PZ xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">1500</PZ>
-                  <RX xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">56.3</RX>
+                  <RX xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">85</RX>
                   <RY xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">212.5</RY>
                   <Time xmlns="http://schemas.datacontract.org/2004/07/CMissionLib.Actions">2</Time>
                 </TriggerLogic>
