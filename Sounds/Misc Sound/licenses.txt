@@ -1,8 +1,2 @@
 Rifleprimary2.ogg: Skorpio; CC-BY-SA 3.0
 http://opengameart.org/content/laser-rifle
-
-Shotgun_Blast-Jim_Rogers-1914772763.wav: Jim Rogers; CC-BY 3.0
-http://soundbible.com/1919-Shotgun-Blast.html
-
-BOMB_SIREN-BOMB_SIREN-247265934.wav: BOMB SIREN; CC-BY 3.0
-http://soundbible.com/2056-Missile-Alert.html
