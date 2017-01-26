@@ -1,0 +1,1 @@
+magick mogrify -bordercolor transparent -border 17 -resize 32x32 *.png
